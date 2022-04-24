@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Alien-project/static/css/main.57a3a960.css",
+    "main.js": "/Alien-project/static/js/main.3c32d7c2.js",
+    "static/js/787.d2ba9307.chunk.js": "/Alien-project/static/js/787.d2ba9307.chunk.js",
+    "index.html": "/Alien-project/index.html",
+    "main.57a3a960.css.map": "/Alien-project/static/css/main.57a3a960.css.map",
+    "main.3c32d7c2.js.map": "/Alien-project/static/js/main.3c32d7c2.js.map",
+    "787.d2ba9307.chunk.js.map": "/Alien-project/static/js/787.d2ba9307.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57a3a960.css",
+    "static/js/main.3c32d7c2.js"
+  ]
+}
